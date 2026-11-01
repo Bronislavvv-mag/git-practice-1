@@ -1,0 +1,3 @@
+First commit in squash-demo
+Second commit in squash-demo
+Third commit in squash-demo
